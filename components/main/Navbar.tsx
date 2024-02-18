@@ -15,7 +15,7 @@ export default function Navbar() {
             alt="logo"
             width={70}
             height={70}
-            className="cursor-pointer hover:animate-slowspin"
+            className="cursor-pointer hover:animate-slowspin w-[35px] h-[35px]"
           />
           <span className="ml-[10px] hidden md:block text-gray-300">
             Soumyadip Roy
