@@ -55,9 +55,11 @@ export default function HeroContent() {
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1.4)}
-          className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
+          className="py-2 px-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Lets Connect
+          <a href="https://www.linkedin.com/in/soumyadip-roy-8994a3267/">
+            Connect on LinkedIn
+          </a>
         </motion.a>
       </div>
 
