@@ -11,18 +11,18 @@ const Projects = () => {
         <ProjectCard
           src="/res/NextWebsite.png"
           title="Natours Tours & Travels Website"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quos quo commodi ipsam? Cupiditate, dolore reprehenderit."
+          description="A website where you can book tours and travel to different places. It is a fully responsive website with a beautiful UI and UX. It is built using HTML, CSS, and JavaScript."
         />
 
         <ProjectCard
           src="/res/CardImage.png"
-          title="Interactive Website"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quos quo commodi ipsam? Cupiditate, dolore reprehenderit."
+          title="Nike Landing Page"
+          description="A Nike Landing Page made entirely with Tailwind CSS and React"
         />
         <ProjectCard
           src="/res/SpaceWebsite.png"
           title="Space Themed Portfolio Website"
-          description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde quos quo commodi ipsam? Cupiditate, dolore reprehenderit."
+          description="My Portfolio website made using Typescript, 3js and Next.js . "
         />
       </div>
     </div>

@@ -22,7 +22,10 @@ const Footer = () => {
             </p>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
               <RxGithubLogo />
-              <span className="text-[15px] ml-[6px] ">Github</span>
+
+              <span className="text-[15px] ml-[6px] cursor-pointer">
+                <a href=" https://github.com/SoumyadipRoy17">Github</a>
+              </span>
             </p>
             <p className="flex flex-row items-center my-[15px] cursor-pointer">
               <RxDiscordLogo />
